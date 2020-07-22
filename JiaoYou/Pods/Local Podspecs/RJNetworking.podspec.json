@@ -1,0 +1,33 @@
+{
+  "name": "RJNetworking",
+  "version": "0.1.0",
+  "summary": "A short description of RJNetworking.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/RonnieJia/RJNetworking-swift",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Ronniejia": "657529876@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/RonnieJia/RJNetworking-swift.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "RJNetworking/Classes/**/*",
+  "dependencies": {
+    "Alamofire": [
+
+    ],
+    "SwiftyJSON": [
+
+    ],
+    "NVActivityIndicatorView": [
+
+    ]
+  }
+}

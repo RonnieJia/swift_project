@@ -1,0 +1,41 @@
+# Uncomment the next line to define a global platform for your project
+platform :ios, '10.0'
+
+source 'https://github.com/CocoaPods/Specs.git'
+source 'https://github.com/RonnieJia/RJSpecs.git'
+#ignore warnings
+inhibit_all_warnings!
+
+target 'SwiftApp' do
+  
+
+
+pod 'UMCCommon'
+pod 'UMCAnalytics'
+#pod 'UMCCommonLog'
+  
+  # Comment the next line if you don't want to use dynamic frameworks
+  use_frameworks!
+
+  # Pods for SwiftApp
+#pod 'Alamofire'
+pod 'Kingfisher'
+#pod 'HandyJSON'
+#pod 'SwiftyUserDefaults'
+pod 'IQKeyboardManagerSwift'
+#pod 'ESPullToRefresh'
+pod 'ZFPlayer'
+pod 'ZFPlayer/AVPlayer'
+pod 'ZFPlayer/ControlView'
+#pod 'RealmSwift'
+pod 'Masonry'
+pod 'JMButton'
+pod 'RJNetworking-Swift'
+pod 'RJUtils_Swift'
+pod 'JXPhotoBrowser'
+pod 'JMessage'
+pod 'YHPhotoKit'
+pod 'SDCycleScrollView'
+pod 'SDWebImage'
+pod 'MJRefresh'
+end

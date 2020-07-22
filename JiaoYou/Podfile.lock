@@ -1,0 +1,109 @@
+PODS:
+  - Alamofire (4.9.1)
+  - IQKeyboardManagerSwift (6.5.4)
+  - JCore (2.1.6)
+  - JMButton (0.6)
+  - JMessage (3.9.1):
+    - JCore (< 3.0.0, >= 2.0.0)
+  - JXPhotoBrowser (3.0.0)
+  - Kingfisher (5.11.0):
+    - Kingfisher/Core (= 5.11.0)
+  - Kingfisher/Core (5.11.0)
+  - Masonry (1.1.0)
+  - MBProgressHUD (1.1.0)
+  - MJRefresh (3.3.1)
+  - NVActivityIndicatorView (4.8.0):
+    - NVActivityIndicatorView/Presenter (= 4.8.0)
+  - NVActivityIndicatorView/Presenter (4.8.0)
+  - RJNetworking-Swift (0.1.2):
+    - Alamofire
+    - SwiftyJSON
+  - RJUtils_Swift (0.1.0):
+    - MBProgressHUD
+    - NVActivityIndicatorView (~> 4.8.0)
+  - SDCycleScrollView (1.80):
+    - SDWebImage (>= 5.0.0)
+  - SDWebImage (5.4.0):
+    - SDWebImage/Core (= 5.4.0)
+  - SDWebImage/Core (5.4.0)
+  - SwiftyJSON (5.0.0)
+  - UMCAnalytics (6.0.5):
+    - UMCCommon
+  - UMCCommon (2.1.1)
+  - YHPhotoKit (0.2.1)
+  - ZFPlayer (3.2.15):
+    - ZFPlayer/Core (= 3.2.15)
+  - ZFPlayer/AVPlayer (3.2.15):
+    - ZFPlayer/Core
+  - ZFPlayer/ControlView (3.2.15):
+    - ZFPlayer/Core
+  - ZFPlayer/Core (3.2.15)
+
+DEPENDENCIES:
+  - IQKeyboardManagerSwift
+  - JMButton
+  - JMessage
+  - JXPhotoBrowser
+  - Kingfisher
+  - Masonry
+  - MJRefresh
+  - RJNetworking-Swift
+  - RJUtils_Swift
+  - SDCycleScrollView
+  - SDWebImage
+  - UMCAnalytics
+  - UMCCommon
+  - YHPhotoKit
+  - ZFPlayer
+  - ZFPlayer/AVPlayer
+  - ZFPlayer/ControlView
+
+SPEC REPOS:
+  https://github.com/CocoaPods/Specs.git:
+    - Alamofire
+    - IQKeyboardManagerSwift
+    - JCore
+    - JMButton
+    - JMessage
+    - JXPhotoBrowser
+    - Kingfisher
+    - Masonry
+    - MBProgressHUD
+    - MJRefresh
+    - NVActivityIndicatorView
+    - SDCycleScrollView
+    - SDWebImage
+    - SwiftyJSON
+    - UMCAnalytics
+    - UMCCommon
+    - YHPhotoKit
+    - ZFPlayer
+  https://github.com/RonnieJia/RJSpecs.git:
+    - RJNetworking-Swift
+    - RJUtils_Swift
+
+SPEC CHECKSUMS:
+  Alamofire: 85e8a02c69d6020a0d734f6054870d7ecb75cf18
+  IQKeyboardManagerSwift: 2dde0fc70110e8eac7ccce2a46fdbec6a850b414
+  JCore: daebd39538328db0cdcad6c4ed101815c42f84bf
+  JMButton: 04a4e98d096f9f504df2908fade68699b822dd5e
+  JMessage: 43dfcd5348573b2f4f24357b12e9b19076322606
+  JXPhotoBrowser: c57724f2e0db8ec75361910b94f449befeb05ca4
+  Kingfisher: 4569606189149e19c7d9439f47e885d0679b7a90
+  Masonry: 678fab65091a9290e40e2832a55e7ab731aad201
+  MBProgressHUD: e7baa36a220447d8aeb12769bf0585582f3866d9
+  MJRefresh: eeda70fbf0ad277f3178cef1cd0c3532591d6237
+  NVActivityIndicatorView: d24b7ebcf80af5dcd994adb650e2b6c93379270f
+  RJNetworking-Swift: 5b6cc809a900bacb3ad62de78f851c03111723dd
+  RJUtils_Swift: 4637d30d093c69b580c992b3fe17054e9b571148
+  SDCycleScrollView: b3c9a5ed840c771c4938978174c7c9d9feefeb96
+  SDWebImage: 5bf6aec6481ae2a062bdc59f9d6c1d1e552090e0
+  SwiftyJSON: 36413e04c44ee145039d332b4f4e2d3e8d6c4db7
+  UMCAnalytics: 045be2cd1ec05aa95ad62405a850757f932e2d59
+  UMCCommon: 971f324a5a99c9d662ae040a815e7e3d7ef8b2a8
+  YHPhotoKit: e88368af1fca0a110d41b88417088f7e49876981
+  ZFPlayer: b56371acefedad94678503a28a6d34820cfd0da3
+
+PODFILE CHECKSUM: 88b8e711a500169b022b4cff1dce733ca46519cc
+
+COCOAPODS: 1.9.0.beta.2

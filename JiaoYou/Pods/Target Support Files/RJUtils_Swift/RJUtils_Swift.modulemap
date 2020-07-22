@@ -1,0 +1,6 @@
+framework module RJUtils_Swift {
+  umbrella header "RJUtils_Swift-umbrella.h"
+
+  export *
+  module * { export * }
+}
